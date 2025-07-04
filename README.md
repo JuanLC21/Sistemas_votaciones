@@ -25,3 +25,8 @@ EJEMPLO DE USO API
 1.Abrir la extensión de thunderclient
 
 ![image](https://github.com/user-attachments/assets/2f599347-0446-4ce9-b52c-db0ed943b039)
+
+2. Dar clic en New Request
+3. Ir a la pestaña de Headers y en la casilla header, agregar Content-Type mientras que en la casilla value, agrega application/json
+
+![image](https://github.com/user-attachments/assets/4c2aaee2-05d3-4d86-b421-3991c0fa358e)
