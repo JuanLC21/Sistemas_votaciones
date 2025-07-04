@@ -16,6 +16,6 @@ INSTRUCCIONES PARA EJECUCIÓN EN LOCAL
 10. Ubicarse desde Power Shell en el fichero bin de la descarga de MongoDB Shell: mongosh.exe
 11. Ejecutar .\mongosh
 12. Aparecerá "Connecting to"
-13. Copiar esa dirección y reemplazar el valor de DATABASE_URI en su variable de entorno .env
+13. Copiar esa dirección de "Connecting to" y reemplazar el valor de DATABASE_URI en su variable de entorno .env
 
 TENDRÁ UN BASE LOCAL VACÍA LISTA PARA PROBAR LOS ENDPOINTS
