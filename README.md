@@ -23,4 +23,5 @@ TENDRÁ UN BASE LOCAL VACÍA LISTA PARA PROBAR LOS ENDPOINTS
 EJEMPLO DE USO API
 
 1.Abrir la extensión de thunderclient
+
 ![image](https://github.com/user-attachments/assets/2f599347-0446-4ce9-b52c-db0ed943b039)
