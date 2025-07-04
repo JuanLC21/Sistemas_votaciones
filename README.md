@@ -30,3 +30,21 @@ EJEMPLO DE USO API
 3. Ir a la pestaña de Headers y en la casilla header, agregar Content-Type mientras que en la casilla value, agrega application/json
 
 ![image](https://github.com/user-attachments/assets/4c2aaee2-05d3-4d86-b421-3991c0fa358e)
+
+Luego en la URL copiar por ejemplo http://localhost:3000/candidates
+"candidates", puede ser reemplazado por "voters". Sin embargo primeramente cree su primer candidato cambiando GET por POST
+
+![image](https://github.com/user-attachments/assets/2934909e-df1d-4ffc-ae61-4096bf9cc4db)
+
+En body puede agregar esto por ejemplo 
+
+![image](https://github.com/user-attachments/assets/e2610bf4-ba54-4a69-a446-501766b7b99b)
+
+Luego da clic en "send" y ha creado el primer candidato. Tambien puede hacer lo mismo con "voters" para crear un votante.
+Y para crear un "voto" utilice las direcciones ID creadas para los votantes y los candidatos
+
+![image](https://github.com/user-attachments/assets/3da62458-005c-400c-b648-98d6c8490953)
+
+Si utiliza el ID de un votante, este quedará registrado como "has_voted:true"
+
+![image](https://github.com/user-attachments/assets/29837411-e32e-4087-8744-16bcc7b6d6eb)
