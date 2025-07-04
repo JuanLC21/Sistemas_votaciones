@@ -11,3 +11,11 @@ INSTRUCCIONES PARA EJECUCIÓN EN LOCAL
 "start": "node --watch src/server.js",
 "env": "node --env-file .env src/server.js"
 7. Agregar extensión Thunderclient en Visual Studio Code
+8. Descargar MongoDB Shell: https://www.mongodb.com/try/download/shell
+9. Descargar MongoDB Comunity Server: https://www.mongodb.com/try/download/community
+10. Ubicarse desde Power Shell en el fichero bin de la descarga de MongoDB Shell: mongosh.exe
+11. Ejecutar .\mongosh
+12. Aparecerá "Connecting to"
+13. Copiar esa dirección y reemplazar el valor de DATABASE_URI en su variable de entorno .env
+
+TENDRÁ UN BASE LOCAL VACÍA LISTA PARA PROBAR LOS ENDPOINTS
